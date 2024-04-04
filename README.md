@@ -1,7 +1,7 @@
 
 
 ### My Discord
-![Discord](https://i.imgur.com/GmSiwlK.jpg)
+![Discord](https://discord.c99.nl/widget/theme-3/1175725280237731895.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 </p>
 
 
-<video width="630" height="300" src="https://github.com/FunnyValentineOf/FunnyValentineOf/assets/100523022/6df90979-2663-4f21-8cc9-f2aa3f9bd8b7"></video>
+<video src="https://github.com/FunnyValentineOf/FunnyValentineOf/assets/100523022/6df90979-2663-4f21-8cc9-f2aa3f9bd8b7" width="630" height="300" loop="" ></video>
 
 
 
